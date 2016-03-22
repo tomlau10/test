@@ -22,6 +22,7 @@
 ---
 
 ## TODO
-- [ ] try commit
-- [ ] try push
+- [x] try commit
+- [x] try push
 - [ ] try branch
+- [ ] try close issue by commit message
