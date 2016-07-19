@@ -26,3 +26,14 @@
 - [x] try push
 - [ ] try branch
 - [ ] try close issue by commit message
+
+# test section link
+
+1. [sec 1](#sec-1)
+2. [sec 2](#sec-2)
+
+## Sec 1
+This is section 1
+
+## Sec 2
+This is section 2
